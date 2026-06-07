@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Alexender
+# Hi there 👋 I'm Alexander
 
 ### Full-Stack Developer | Frontend • Backend • DevOps • Mobile
 
