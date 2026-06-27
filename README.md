@@ -80,7 +80,7 @@ with clean architecture, strong UI logic and reliable backend systems.
 
 <div align="center">
 
-<img src="https://deno.dev" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/dlsDEV?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
