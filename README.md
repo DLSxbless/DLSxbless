@@ -76,6 +76,15 @@ with clean architecture, strong UI logic and reliable backend systems.
 
 ---
 
+## LeetCode Activity
+
+<div align="center">
+
+<img src="https://deno.dev" alt="LeetCode Stats" />
+
+</div>
+
+
 <div align="center">
 
 <i>
