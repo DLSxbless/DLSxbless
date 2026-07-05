@@ -15,7 +15,7 @@ with clean architecture, strong UI logic and reliable backend systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,angular,nextjs,nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,nodejs,express,nestjs" />
 
 <br />
 <br />
@@ -41,7 +41,7 @@ with clean architecture, strong UI logic and reliable backend systems.
 
 ### Frontend Frameworks & Tools
 
-`React 19+` · `Vite` · `Angular` · `Next.js` · `Zustand`
+`React 19+` · `Vite` · `Next.js` · `Zustand`
 
 ### Backend & API Development
 
