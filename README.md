@@ -65,17 +65,6 @@ with clean architecture, strong UI logic and reliable backend systems.
 
 </div>
 
-## About me
-
-- 🚀 Full-stack developer focused on modern web applications
-- 🎨 Building responsive, clean and scalable user interfaces
-- ⚙️ Creating REST APIs, backend services and database-driven systems
-- 🧠 Interested in clean architecture, performance and maintainable code
-- 🐧 Working with Linux servers, Docker, Nginx and deployment workflows
-- 📱 Exploring mobile development with Flutter and Dart
-
----
-
 ## LeetCode Activity
 
 <div align="center">
